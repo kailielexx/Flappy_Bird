@@ -43,7 +43,7 @@ open FlappyBirdGame.xcodeproj
 
 ## User Interface
 
-![Flappy Bird Game](../img/ios-ui.png)
+![Flappy Bird Game](/img/ios-ui.png)
 
 ## How to Play
 
